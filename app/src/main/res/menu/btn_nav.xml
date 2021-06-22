@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Numeros" android:id="@+id/Numeros" android:icon="@drawable/ic_launcher_foreground"/>
+    <item android:title="Lista" android:id="@+id/Lista" android:icon="@drawable/ic_launcher_foreground"/>
+    <item android:title="Rueda" android:id="@+id/Rueda" android:icon="@drawable/ic_launcher_foreground"/>
+</menu>

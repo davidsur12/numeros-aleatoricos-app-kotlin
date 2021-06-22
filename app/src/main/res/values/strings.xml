@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NumerosAleatoricos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="numeroEntrada">Numero de entrada</string>
+    <string name="numerominimo">Numero minimo</string>
+    <string name="numeromaximo">Numero maximo</string>
+    <string name="numerorepetido">Numeros Repetidos</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="agregar">Agregar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="atras">retroceder</string>
+    <string name="editarLista">Editar   Lista</string>
+    <string name="numerosaleatoricos">Numeros Aleatoricos</string>
+    <string name="numerosazar">Numeros al azar</string>
+    <string name="notaNUmNimino">El numero minimo tiene queser  menor que el numero maximo</string>
+    <string name="notaNUmMaximo">El numero maximo tiene queser  mayor que el numero minimo</string>
+    <string name="notaNUmRepetido"><br>los numeros aleatoricos se generan al azar </br>
+    los numeros no repetidos los numeros no se repiten</string>
+
+
+</resources>
